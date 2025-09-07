@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### My name is Ezra but everyone calls me Fizzy. I'm currently studying full-stack web development. 
 <!--
 **fizzyt-png/fizzyt-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
